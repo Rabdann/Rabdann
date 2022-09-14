@@ -35,6 +35,7 @@ and coding of course :computer:
 ### You can contact me:
 
 [<img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+<br />
 [telegram]: https://t.me/Rabdann
 
 
@@ -43,4 +44,5 @@ and coding of course :computer:
 
 ### Some links:
 [<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/Rabdann/badges/large" />][codewars]
+<br />
 [codewars]: https://www.codewars.com/users/Rabdann
