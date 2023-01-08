@@ -1,13 +1,14 @@
 ## Hello, I'm Rabdan
 
-### I'm software engineer!
+### I'm Python Developer!
 
 I like:
+- :computer: coding
 - :running: run
 - :soccer: football
-- :pizza: Pizza
+- :pizza: pizza
 
-and coding of course :computer:
+
 
 ---
 
